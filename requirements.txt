@@ -1,0 +1,7 @@
+SoccerNet
+requests
+tqdm
+opencv-python
+numpy
+pandas
+sklearn

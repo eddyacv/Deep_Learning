@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.venv/
+env/
+
+# Data
+data/raw/*
+data/features/*
+data/videos/*
+!data/.keep
+data/datasets/*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
