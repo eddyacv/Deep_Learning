@@ -14,7 +14,7 @@ data/features/*
 data/videos/*
 !data/.keep
 data/datasets/*
-
+data/caption/*
 # Jupyter
 .ipynb_checkpoints/
 
